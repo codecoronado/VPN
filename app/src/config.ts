@@ -55,8 +55,8 @@ export default defineConfig({
         // image
         {
           media: {
-            type: 'image',
-            src: import('./assets/img/durov.webp'),
+            type: 'sticker',
+            src: import('./assets/img/pile-of-coins.tgs'),
           },
           shape: 'rounded',
           pagination: 'count',
