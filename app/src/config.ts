@@ -36,17 +36,22 @@ export default defineConfig({
           form: [
             {
               id: 'text_from_form',
-              placeholder: 'Text input',
+              placeholder: 'First name',
               type: 'text',
             },
             {
-              id: 'number_from_form',
-              placeholder: 'Number input',
-              type: 'number',
+              id: 'text_from_form',
+              placeholder: 'Last name',
+              type: 'text',
+            },
+            {
+              id: 'text_from_form',
+              placeholder: 'Email address',
+              type: 'text',
             },
             {
               id: 'checkbox_from_form',
-              placeholder: 'Checkbox',
+              placeholder: 'I agree to the terms and conditions provided',
               type: 'checkbox',
             },
           ],
@@ -61,7 +66,7 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Our ATM-Income system will provide you with everything you need to start earning online.',
+          title: 'Our Amazing ATM-Income ',
           description:
             "Here you can see <b>Image</b>. But it's just the beginning...",
           button: {
