@@ -56,7 +56,7 @@ export default defineConfig({
         {
           media: {
             type: 'sticker',
-            src: import('./assets/img/pile-of-coins.tgs'),
+            src: import('./assets/stickers/pile-of-coins.tgs'),
             size: 150,
           },
           shape: 'rounded',
