@@ -18,7 +18,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Welcome to our site',
           description:
-            "Create stunning onboarding and paywall for your Telegram Bot using the full power of Mini Apps<br><br>It's <b>simple</b>, <b>fast</b>, highly <b>customizable</b> and <a href='https://github.com/Easterok/telegram-onboarding-kit' target='_blank'>open-source</a>!",
+            "Take a look at our current products. This is a demo only for the time being!",
           button: 'Next',
         },
         // form
