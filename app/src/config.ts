@@ -16,9 +16,9 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Welcome to our site',
+          title: 'Welcome to ATM-Income',
           description:
-            "Take a look at our current products. This is a demo only for the time being!",
+            "How would you like to start earning a secondary income? It's a really simple simple with a proven track record. If you are serious and would like to start earning online income the click the next button below to learn more!",
           button: 'Next',
         },
         // form
@@ -32,7 +32,7 @@ export default defineConfig({
           shape: 'square',
           pagination: 'count',
           title: 'Forms',
-          description: 'User fills in the form – the bot receives the data',
+          description: 'Lets get a little more information from you so that we can provide you with all the information you need to get started.',
           form: [
             {
               id: 'text_from_form',
@@ -61,7 +61,7 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Onboarding supports many types of content',
+          title: 'Our ATM-Income system will provide you with everything you need to start earning online.',
           description:
             "Here you can see <b>Image</b>. But it's just the beginning...",
           button: {
