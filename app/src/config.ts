@@ -57,7 +57,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/pile-of-coins.tgs'),
-            size: 150,
+            size: 250,
           },
           shape: 'rounded',
           pagination: 'count',
