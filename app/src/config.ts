@@ -18,7 +18,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Welcome to ATM-Income',
           description:
-            "How would you like to start earning a secondary income? It's a really simple simple with a proven track record. If you are serious and would like to start earning online income the click the next button below to learn more!",
+            "How would you like to start earning a secondary income? It's a really simple simple with a proven track record. If you are serious and would like to start earning online income the click the next button below to learn more!!",
           button: 'Next',
         },
         // form
