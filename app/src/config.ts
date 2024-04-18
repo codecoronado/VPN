@@ -31,8 +31,8 @@ export default defineConfig({
           pagination: 'count',
           title: 'How Does This Work? You asked? Well Let me Explain.',
           description:
-            "Once you join our ATM-Income System, we will give you 100,000 ATM Tokens into your Phantom Wallet. These tokens will support the Solana blockchain. All you need to do is pay a one time $19.99 Lifetime Membership fee. This will cover your membership and token ipo launch fee. It might should like a steep price for membership, but just remember you will have 100,000 ATM Tokens in your wallet. Just imagine once we launch, and our token may reach anywhere between $1 and $5 that will be roughly over $100,000.00 which is noting compared to your $19.99 Lifetime Membership fee. Your membership will also include information on how to refer other members so that you earn even more income.",
-          button: 'Next',
+            "Once you have joined our ATM-Income System, we will provide you 100,000 ATM Tokens into your Phantom Wallet. ATM-Income tokens will support the Solana blockchain after initial launch of our token. All you need to do is pay a one time small fee of $19.99 for your Lifetime Membership. This will cover your lifetime membership and will help us cover the smart contract audit and token ipo launch application fee. I know, I know... It might sound like a really steep price to pay, but just remember you will have 100,000 ATM Tokens in your wallet at launch. Just imagine the price of the toekn once we launch, our token will have the capacity to reach anywhere between $1 and $5 that will be roughly over $100,000.00 in pure profits for you! Don\'t let this opportunity pass you by.",
+          button: 'Join Now!',
         },
         // form
         {
