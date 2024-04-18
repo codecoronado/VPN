@@ -16,9 +16,9 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Welcome to ATM-Income',
+          title: 'Join ATM-Income and Start Earning Serious Cash!',
           description:
-            "How would you like to start earning a secondary income? It's a really simple simple with a proven track record. If you are serious and would like to start earning online income the click the next button below to learn more!!",
+            "How would you like to start earning income online with our Amazing ATM-Income System? It's a really simple. I'll show you how you can easily start making money online. Just click the next button below to learn more!",
           button: 'Give it a Try!',
         },
         // form
