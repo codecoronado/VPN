@@ -16,7 +16,7 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Join ATM-Income and Start Earning Serious Cash!',
+          title: 'Join ATM-Income and Start Earning Serious Cash Today!',
           description:
             "How would you like to start earning income with our Amazing ATM-Income System? Its a really simple system. I'll show you how you can easily start receiving payments today! Just click the next button below to learn more!",
           button: 'Give it a Try!',
